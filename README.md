@@ -2,7 +2,7 @@
 
 ## Guide
 
-The Fuse route is on `br.com.redhat.routes.RouteBuilder`
+The Fuse route is on `br.com.redhat.routes.StarterRoute`
 
 
 ## Run the project
